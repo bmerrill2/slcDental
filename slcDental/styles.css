@@ -1,0 +1,26 @@
+body {
+  background-color: royalblue;
+  width: auto;
+}
+
+.headerbackground {
+  display: inline-block;
+  width: 870px;
+  text-align: center;
+}
+
+.info {
+  display: inline-block;
+  
+}
+
+
+.socialMediaLink {
+  display: inline-block;
+}
+
+.social {
+  height: 13px;
+  margin-left: 3px;
+}
+
