@@ -5,7 +5,8 @@ var name = 'Tyler';
 //Create a function called isTyler that accepts name as it's only argument.
 //If the argument you passed in is equal to 'Tyler', return true. If it's not, return false.
 
-  //Code Here
+  function isTyler(name){
+    
 
 
 //Next problem
