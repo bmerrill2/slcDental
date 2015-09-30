@@ -5,8 +5,8 @@
 
 var me = {
   name: 'Brad',
-  age: '27',
-}
+  age: 27,
+};
 
 alert(me.name);
 
@@ -27,7 +27,7 @@ var favoriteThings = {
   book: 'A Good One',
   movie: '?',
   holiday: 'Christmas',
-}
+};
 
 //After you've made your object, add another key named 'car' with the value being your favorite car and then another key named 'brand' with the value being your favorite brand.
 
@@ -40,7 +40,7 @@ favoriteThings.brand = 'Nike';
 favoriteThings.food = 'Lettuce';
 favoriteThings.book = '50 Shades of Gray';
 
-favoriteThings
+console.log(favoriteThings)
 
 
 //NEXT PROBLEM
@@ -300,6 +300,6 @@ var bindCard = function(person, creditCard){
   }
 }
 
-var card = bindCard(me,newCard);
+var card = bindCard(me, newCard);
 
 
